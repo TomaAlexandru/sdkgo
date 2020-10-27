@@ -34,4 +34,4 @@ Put the package under your project folder and add the following in import:
 import "./ionossdk"
 ```
 
-## Our latest, most up to date documentation is available [here](https://github.com/ionos-cloud/ionos-cloud-sdk-go/blob/master/DOCS.md)
+## Our latest, most up to date documentation is available [here](https://github.com/TomaAlexandru/sdkgo/blob/master/DOCS.md)
