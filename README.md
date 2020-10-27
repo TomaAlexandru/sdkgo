@@ -1,5 +1,4 @@
-![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)
-![PyPI](https://img.shields.io/pypi/v/ionos-cloud-sdk)
+[![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)](https://gitter.im/ionos-cloud/sdk-general)
 
 # Go API client for ionossdk
 
@@ -34,4 +33,4 @@ Put the package under your project folder and add the following in import:
 import "./ionossdk"
 ```
 
-## Our latest, most up to date documentation is available [here](https://github.com/TomaAlexandru/sdkgo/blob/master/DOCS.md)
+## Our latest, most up to date documentation is available [here](https://github.com/ionos-cloud/ionos-cloud-sdk-go/blob/master/DOCS.md)

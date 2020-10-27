@@ -1,5 +1,4 @@
-![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)
-![PyPI](https://img.shields.io/pypi/v/ionos-cloud-sdk)
+[![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)](https://gitter.im/ionos-cloud/sdk-general)
 
 # Go API client for ionossdk
 
